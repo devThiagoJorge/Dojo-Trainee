@@ -4,7 +4,7 @@ using Xunit;
 
 namespace DojoTests
 {
-    public class UnitTest1
+    public class CalculatorUnitTest
     {
         [Fact]
         public void ShouldSumTwoNumbersReturnSuccess()
@@ -33,5 +33,28 @@ namespace DojoTests
             double result = calculator.Multiply(numberOne, numberTwo);
             Assert.Equal(15, result);
         }
+
+        [Fact]
+        public void ShouldDivideTwoNumbersAndReturnSuccess()
+        {
+            int numberOne = 5;
+            int numberTwo = 2;
+            Calculator calculator = new Calculator();
+            double result = calculator.Division(numberOne, numberTwo);
+            Assert.Equal(2.5, result);
+        }
+
+        [Fact]
+        public void ShouldDivideANumberByZeroFail()
+        {
+            int numberOne = 5;
+            int numberTwo = 0;
+            Calculator calculator = new Calculator();
+            double result = calculator.Division(numberOne, numberTwo);
+
+            Assert.Equal(3, result);
+        }
+
+
     }
 }

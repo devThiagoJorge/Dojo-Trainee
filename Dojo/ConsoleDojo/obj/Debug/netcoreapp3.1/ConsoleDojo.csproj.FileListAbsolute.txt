@@ -11,3 +11,16 @@ D:\dev\DOJODOJOJO\Dojo-Trainee\Dojo\ConsoleDojo\obj\Debug\netcoreapp3.1\ConsoleD
 D:\dev\DOJODOJOJO\Dojo-Trainee\Dojo\ConsoleDojo\obj\Debug\netcoreapp3.1\ConsoleDojo.dll
 D:\dev\DOJODOJOJO\Dojo-Trainee\Dojo\ConsoleDojo\obj\Debug\netcoreapp3.1\ConsoleDojo.pdb
 D:\dev\DOJODOJOJO\Dojo-Trainee\Dojo\ConsoleDojo\obj\Debug\netcoreapp3.1\ConsoleDojo.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Dojo\Dojo-Trainee\Dojo\ConsoleDojo\bin\Debug\netcoreapp3.1\ConsoleDojo.exe
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Dojo\Dojo-Trainee\Dojo\ConsoleDojo\bin\Debug\netcoreapp3.1\ConsoleDojo.deps.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Dojo\Dojo-Trainee\Dojo\ConsoleDojo\bin\Debug\netcoreapp3.1\ConsoleDojo.runtimeconfig.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Dojo\Dojo-Trainee\Dojo\ConsoleDojo\bin\Debug\netcoreapp3.1\ConsoleDojo.runtimeconfig.dev.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Dojo\Dojo-Trainee\Dojo\ConsoleDojo\bin\Debug\netcoreapp3.1\ConsoleDojo.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Dojo\Dojo-Trainee\Dojo\ConsoleDojo\bin\Debug\netcoreapp3.1\ConsoleDojo.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Dojo\Dojo-Trainee\Dojo\ConsoleDojo\obj\Debug\netcoreapp3.1\ConsoleDojo.csprojAssemblyReference.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Dojo\Dojo-Trainee\Dojo\ConsoleDojo\obj\Debug\netcoreapp3.1\ConsoleDojo.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Dojo\Dojo-Trainee\Dojo\ConsoleDojo\obj\Debug\netcoreapp3.1\ConsoleDojo.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Dojo\Dojo-Trainee\Dojo\ConsoleDojo\obj\Debug\netcoreapp3.1\ConsoleDojo.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Dojo\Dojo-Trainee\Dojo\ConsoleDojo\obj\Debug\netcoreapp3.1\ConsoleDojo.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Dojo\Dojo-Trainee\Dojo\ConsoleDojo\obj\Debug\netcoreapp3.1\ConsoleDojo.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Dojo\Dojo-Trainee\Dojo\ConsoleDojo\obj\Debug\netcoreapp3.1\ConsoleDojo.genruntimeconfig.cache

@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Burned\\.nuget\\packages\\": {}
+    "C:\\Users\\thiag\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\dev\\DOJODOJOJO\\Dojo-Trainee\\Dojo\\ConsoleDojo\\ConsoleDojo.csproj",
+      "projectUniqueName": "C:\\Users\\thiag\\OneDrive\\Área de Trabalho\\CURSOS\\Dojo\\Dojo-Trainee\\Dojo\\ConsoleDojo\\ConsoleDojo.csproj",
       "projectName": "ConsoleDojo",
-      "projectPath": "D:\\dev\\DOJODOJOJO\\Dojo-Trainee\\Dojo\\ConsoleDojo\\ConsoleDojo.csproj",
-      "packagesPath": "C:\\Users\\Burned\\.nuget\\packages\\",
-      "outputPath": "D:\\dev\\DOJODOJOJO\\Dojo-Trainee\\Dojo\\ConsoleDojo\\obj\\",
+      "projectPath": "C:\\Users\\thiag\\OneDrive\\Área de Trabalho\\CURSOS\\Dojo\\Dojo-Trainee\\Dojo\\ConsoleDojo\\ConsoleDojo.csproj",
+      "packagesPath": "C:\\Users\\thiag\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\thiag\\OneDrive\\Área de Trabalho\\CURSOS\\Dojo\\Dojo-Trainee\\Dojo\\ConsoleDojo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Burned\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\thiag\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -32,6 +32,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -43,6 +44,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -58,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
