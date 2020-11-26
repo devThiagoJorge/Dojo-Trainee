@@ -1,0 +1,13 @@
+D:\dev\DOJODOJOJO\Dojo-Trainee\Dojo\ConsoleDojo\bin\Debug\netcoreapp3.1\ConsoleDojo.exe
+D:\dev\DOJODOJOJO\Dojo-Trainee\Dojo\ConsoleDojo\bin\Debug\netcoreapp3.1\ConsoleDojo.deps.json
+D:\dev\DOJODOJOJO\Dojo-Trainee\Dojo\ConsoleDojo\bin\Debug\netcoreapp3.1\ConsoleDojo.runtimeconfig.json
+D:\dev\DOJODOJOJO\Dojo-Trainee\Dojo\ConsoleDojo\bin\Debug\netcoreapp3.1\ConsoleDojo.runtimeconfig.dev.json
+D:\dev\DOJODOJOJO\Dojo-Trainee\Dojo\ConsoleDojo\bin\Debug\netcoreapp3.1\ConsoleDojo.dll
+D:\dev\DOJODOJOJO\Dojo-Trainee\Dojo\ConsoleDojo\bin\Debug\netcoreapp3.1\ConsoleDojo.pdb
+D:\dev\DOJODOJOJO\Dojo-Trainee\Dojo\ConsoleDojo\obj\Debug\netcoreapp3.1\ConsoleDojo.csprojAssemblyReference.cache
+D:\dev\DOJODOJOJO\Dojo-Trainee\Dojo\ConsoleDojo\obj\Debug\netcoreapp3.1\ConsoleDojo.AssemblyInfoInputs.cache
+D:\dev\DOJODOJOJO\Dojo-Trainee\Dojo\ConsoleDojo\obj\Debug\netcoreapp3.1\ConsoleDojo.AssemblyInfo.cs
+D:\dev\DOJODOJOJO\Dojo-Trainee\Dojo\ConsoleDojo\obj\Debug\netcoreapp3.1\ConsoleDojo.csproj.CoreCompileInputs.cache
+D:\dev\DOJODOJOJO\Dojo-Trainee\Dojo\ConsoleDojo\obj\Debug\netcoreapp3.1\ConsoleDojo.dll
+D:\dev\DOJODOJOJO\Dojo-Trainee\Dojo\ConsoleDojo\obj\Debug\netcoreapp3.1\ConsoleDojo.pdb
+D:\dev\DOJODOJOJO\Dojo-Trainee\Dojo\ConsoleDojo\obj\Debug\netcoreapp3.1\ConsoleDojo.genruntimeconfig.cache

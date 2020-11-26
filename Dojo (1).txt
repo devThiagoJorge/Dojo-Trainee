@@ -1,0 +1,63 @@
+-> Implementar Calculadora vai ser um aplicação Console desenvolvida em C#
+
+****************** Critérios
+
+- Aplicar TDD
+- Testes dos metódos
+- 15 minutos, troca 
+- In English 
+- Operações: Soma, Subtração, Multiplicação, Divisão
+- SOLID
+
+FEATURES:
+
+-> Raiz Quadra e Potência. 
+
+
+
+
+Solution:
+
+
+-> In the first create Console Project 
+
+-> Create Project Test 
+
+-> Calculator Class
+
+-> Calculation Methods 
+
+
+Sum(n1,n2) : Double
+
+Subtraction(n1,n2) : Double
+
+Multiplication(n1,n2) : Double
+
+Division(n1,n2) : Double
+** Validation with 0 number.
+
+
+
+
+
+Thiago -> Marcos -> Jimenez  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

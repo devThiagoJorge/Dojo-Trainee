@@ -9,11 +9,29 @@ namespace DojoTests
         [Fact]
         public void ShouldSumTwoNumbersReturnSuccess()
         {
-            var numberOne = 2;
-            var numberTwo = 3;
+            int numberOne = 2;
+            int numberTwo = 3;
             Calculator calculator = new Calculator();
-            var sum = calculator.Sum(numberOne, numberTwo);
-            Assert.Equal(5,sum);
+            double result = calculator.Sum(numberOne, numberTwo);
+            Assert.Equal(5, result);
+        }
+        [Fact]
+        public void ShouldSubtractTwoNumbersAndReturnSuccess()
+        {
+            int numberOne = 5;
+            int numberTwo = 3;
+            Calculator calculator = new Calculator();
+            double result = calculator.Subtract(numberOne, numberTwo);
+            Assert.Equal(2, result);
+        }
+        [Fact]
+        public void ShouldMultiplyTwoNumbersAndReturnSuccess()
+        {
+            int numberOne = 5;
+            int numberTwo = 3;
+            Calculator calculator = new Calculator();
+            double result = calculator.Multiply(numberOne, numberTwo);
+            Assert.Equal(15, result);
         }
     }
 }
