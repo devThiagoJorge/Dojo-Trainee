@@ -44,17 +44,36 @@ namespace DojoTests
             Assert.Equal(2.5, result);
         }
 
+        //[Fact]
+        //public void ShouldDivideANumberByZeroFail()
+        //{
+        //    int numberOne = 5;
+        //    int numberTwo = 0;
+        //    Calculator calculator = new Calculator();
+        //    double result = calculator.Division(numberOne, numberTwo);
+        //    if(numberTwo == 0)
+        //    {
+        //        Assert.Equal
+        //    }
+        //    Assert.Equal(3, result);
+        //}
+
         [Fact]
-        public void ShouldDivideANumberByZeroFail()
+        public void ShouldSquareRootNumberAndReturnSuccess()
         {
-            int numberOne = 5;
-            int numberTwo = 0;
+            int number = 25;
             Calculator calculator = new Calculator();
-            double result = calculator.Division(numberOne, numberTwo);
-
-            Assert.Equal(3, result);
+            double result = calculator.SquareRoot(number);
+            Assert.Equal(5, result);
         }
-
-
+        [Fact]
+        public void ShouldPowerNumberAndReturnSuccess()
+        {
+            int number = 5;
+            int power = 2;
+            Calculator calculator = new Calculator();
+            double result = calculator.Power(number, power);
+            Assert.Equal(25, result);
+        }
     }
 }

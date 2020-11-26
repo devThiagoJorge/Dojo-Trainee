@@ -24,3 +24,16 @@ C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Dojo\Dojo-Trainee\Dojo\ConsoleD
 C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Dojo\Dojo-Trainee\Dojo\ConsoleDojo\obj\Debug\netcoreapp3.1\ConsoleDojo.dll
 C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Dojo\Dojo-Trainee\Dojo\ConsoleDojo\obj\Debug\netcoreapp3.1\ConsoleDojo.pdb
 C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Dojo\Dojo-Trainee\Dojo\ConsoleDojo\obj\Debug\netcoreapp3.1\ConsoleDojo.genruntimeconfig.cache
+C:\Users\T-Gamer\Desktop\Dojo\Dojo-Trainee\Dojo\ConsoleDojo\bin\Debug\netcoreapp3.1\ConsoleDojo.exe
+C:\Users\T-Gamer\Desktop\Dojo\Dojo-Trainee\Dojo\ConsoleDojo\bin\Debug\netcoreapp3.1\ConsoleDojo.deps.json
+C:\Users\T-Gamer\Desktop\Dojo\Dojo-Trainee\Dojo\ConsoleDojo\bin\Debug\netcoreapp3.1\ConsoleDojo.runtimeconfig.json
+C:\Users\T-Gamer\Desktop\Dojo\Dojo-Trainee\Dojo\ConsoleDojo\bin\Debug\netcoreapp3.1\ConsoleDojo.runtimeconfig.dev.json
+C:\Users\T-Gamer\Desktop\Dojo\Dojo-Trainee\Dojo\ConsoleDojo\bin\Debug\netcoreapp3.1\ConsoleDojo.dll
+C:\Users\T-Gamer\Desktop\Dojo\Dojo-Trainee\Dojo\ConsoleDojo\bin\Debug\netcoreapp3.1\ConsoleDojo.pdb
+C:\Users\T-Gamer\Desktop\Dojo\Dojo-Trainee\Dojo\ConsoleDojo\obj\Debug\netcoreapp3.1\ConsoleDojo.csprojAssemblyReference.cache
+C:\Users\T-Gamer\Desktop\Dojo\Dojo-Trainee\Dojo\ConsoleDojo\obj\Debug\netcoreapp3.1\ConsoleDojo.AssemblyInfoInputs.cache
+C:\Users\T-Gamer\Desktop\Dojo\Dojo-Trainee\Dojo\ConsoleDojo\obj\Debug\netcoreapp3.1\ConsoleDojo.AssemblyInfo.cs
+C:\Users\T-Gamer\Desktop\Dojo\Dojo-Trainee\Dojo\ConsoleDojo\obj\Debug\netcoreapp3.1\ConsoleDojo.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Desktop\Dojo\Dojo-Trainee\Dojo\ConsoleDojo\obj\Debug\netcoreapp3.1\ConsoleDojo.dll
+C:\Users\T-Gamer\Desktop\Dojo\Dojo-Trainee\Dojo\ConsoleDojo\obj\Debug\netcoreapp3.1\ConsoleDojo.pdb
+C:\Users\T-Gamer\Desktop\Dojo\Dojo-Trainee\Dojo\ConsoleDojo\obj\Debug\netcoreapp3.1\ConsoleDojo.genruntimeconfig.cache

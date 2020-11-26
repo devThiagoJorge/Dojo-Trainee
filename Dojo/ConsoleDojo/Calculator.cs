@@ -26,5 +26,17 @@ namespace ConsoleDojo
         {
             return number1 / number2;
         }
+
+        public double SquareRoot(double number)
+        {
+            double square = Math.Sqrt(number);
+            return square;
+        }
+
+        public double Power(double number, double power)
+        {
+            double result = Math.Pow(number, power);
+            return result;
+        }
     }
 }

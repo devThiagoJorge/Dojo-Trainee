@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\thiag\\OneDrive\\Área de Trabalho\\CURSOS\\Dojo\\Dojo-Trainee\\Dojo\\ConsoleDojo\\ConsoleDojo.csproj": {}
+    "C:\\Users\\T-Gamer\\Desktop\\Dojo\\Dojo-Trainee\\Dojo\\ConsoleDojo\\ConsoleDojo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\thiag\\OneDrive\\Área de Trabalho\\CURSOS\\Dojo\\Dojo-Trainee\\Dojo\\ConsoleDojo\\ConsoleDojo.csproj": {
+    "C:\\Users\\T-Gamer\\Desktop\\Dojo\\Dojo-Trainee\\Dojo\\ConsoleDojo\\ConsoleDojo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thiag\\OneDrive\\Área de Trabalho\\CURSOS\\Dojo\\Dojo-Trainee\\Dojo\\ConsoleDojo\\ConsoleDojo.csproj",
+        "projectUniqueName": "C:\\Users\\T-Gamer\\Desktop\\Dojo\\Dojo-Trainee\\Dojo\\ConsoleDojo\\ConsoleDojo.csproj",
         "projectName": "ConsoleDojo",
-        "projectPath": "C:\\Users\\thiag\\OneDrive\\Área de Trabalho\\CURSOS\\Dojo\\Dojo-Trainee\\Dojo\\ConsoleDojo\\ConsoleDojo.csproj",
-        "packagesPath": "C:\\Users\\thiag\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thiag\\OneDrive\\Área de Trabalho\\CURSOS\\Dojo\\Dojo-Trainee\\Dojo\\ConsoleDojo\\obj\\",
+        "projectPath": "C:\\Users\\T-Gamer\\Desktop\\Dojo\\Dojo-Trainee\\Dojo\\ConsoleDojo\\ConsoleDojo.csproj",
+        "packagesPath": "C:\\Users\\T-Gamer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\T-Gamer\\Desktop\\Dojo\\Dojo-Trainee\\Dojo\\ConsoleDojo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\thiag\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\T-Gamer\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +26,6 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -38,7 +37,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -54,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

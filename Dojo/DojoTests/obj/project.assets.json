@@ -3489,19 +3489,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\thiag\\.nuget\\packages\\": {}
+    "C:\\Users\\T-Gamer\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thiag\\OneDrive\\Área de Trabalho\\CURSOS\\Dojo\\Dojo-Trainee\\Dojo\\DojoTests\\DojoTests.csproj",
+      "projectUniqueName": "C:\\Users\\T-Gamer\\Desktop\\Dojo\\Dojo-Trainee\\Dojo\\DojoTests\\DojoTests.csproj",
       "projectName": "DojoTests",
-      "projectPath": "C:\\Users\\thiag\\OneDrive\\Área de Trabalho\\CURSOS\\Dojo\\Dojo-Trainee\\Dojo\\DojoTests\\DojoTests.csproj",
-      "packagesPath": "C:\\Users\\thiag\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\thiag\\OneDrive\\Área de Trabalho\\CURSOS\\Dojo\\Dojo-Trainee\\Dojo\\DojoTests\\obj\\",
+      "projectPath": "C:\\Users\\T-Gamer\\Desktop\\Dojo\\Dojo-Trainee\\Dojo\\DojoTests\\DojoTests.csproj",
+      "packagesPath": "C:\\Users\\T-Gamer\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\T-Gamer\\Desktop\\Dojo\\Dojo-Trainee\\Dojo\\DojoTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\thiag\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\T-Gamer\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3513,10 +3513,9 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\thiag\\OneDrive\\Área de Trabalho\\CURSOS\\Dojo\\Dojo-Trainee\\Dojo\\ConsoleDojo\\ConsoleDojo.csproj": {
-              "projectPath": "C:\\Users\\thiag\\OneDrive\\Área de Trabalho\\CURSOS\\Dojo\\Dojo-Trainee\\Dojo\\ConsoleDojo\\ConsoleDojo.csproj"
+            "C:\\Users\\T-Gamer\\Desktop\\Dojo\\Dojo-Trainee\\Dojo\\ConsoleDojo\\ConsoleDojo.csproj": {
+              "projectPath": "C:\\Users\\T-Gamer\\Desktop\\Dojo\\Dojo-Trainee\\Dojo\\ConsoleDojo\\ConsoleDojo.csproj"
             }
           }
         }
@@ -3529,7 +3528,6 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
-        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Microsoft.NET.Test.Sdk": {
             "target": "Package",
@@ -3563,7 +3561,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
